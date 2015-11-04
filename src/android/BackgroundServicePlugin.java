@@ -1,4 +1,4 @@
-package io.sharedthings.batteryservicee;
+package io.sharedthings.batteryservice;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.PluginResult;
