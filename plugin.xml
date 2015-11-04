@@ -50,6 +50,7 @@
         <source-file src="src/android/BootReceiver.java" target-dir="src/io/sharedthings/batteryservice" />
         <source-file src="src/android/PropertyHelper.java" target-dir="src/io/sharedthings/batteryservice" />
         <source-file src="src/android/ReflectionHelper.java" target-dir="src/io/sharedthings/batteryservice" />
+        <source-file src="src/android/BatteryService.java" target-dir="src/io/sharedthings/batteryservice" />
 		
         <source-file src="aidl/android/BackgroundServiceApi.aidl" target-dir="src/io/sharedthings/batteryservice" />
         <source-file src="aidl/android/BackgroundServiceListener.aidl" target-dir="src/io/sharedthings/batteryservice" />
