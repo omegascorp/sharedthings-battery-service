@@ -1,4 +1,4 @@
-package com.red_folder.phonegap.plugin.backgroundservice;   
+package io.sharedthings.batteryservice;
 
 interface BackgroundServiceListener {     
 	void handleUpdate(); 
