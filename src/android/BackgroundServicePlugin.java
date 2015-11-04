@@ -1,4 +1,4 @@
-package com.red_folder.phonegap.plugin.backgroundservice;
+package io.sharedthings.batteryservicee;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.PluginResult;
@@ -8,8 +8,8 @@ import android.util.Log;
 
 import org.apache.cordova.CordovaPlugin;
 
-import com.red_folder.phonegap.plugin.backgroundservice.BackgroundServicePluginLogic.ExecuteResult;
-import com.red_folder.phonegap.plugin.backgroundservice.BackgroundServicePluginLogic.ExecuteStatus;
+import io.sharedthings.batteryservice.BackgroundServicePluginLogic.ExecuteResult;
+import io.sharedthings.batteryservice.BackgroundServicePluginLogic.ExecuteStatus;
 
 public class BackgroundServicePlugin extends CordovaPlugin implements BackgroundServicePluginLogic.IUpdateListener {
 
