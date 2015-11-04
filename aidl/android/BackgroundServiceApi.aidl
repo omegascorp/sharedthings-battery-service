@@ -1,6 +1,6 @@
-package com.red_folder.phonegap.plugin.backgroundservice;   
+package io.sharedthings.batteryservice;
 
-import com.red_folder.phonegap.plugin.backgroundservice.BackgroundServiceListener;
+import io.sharedthings.batteryservice.BackgroundServiceListener;
 
 interface BackgroundServiceApi {  
 	String getLatestResult();     
