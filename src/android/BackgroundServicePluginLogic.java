@@ -1,4 +1,4 @@
-package com.red_folder.phonegap.plugin.backgroundservice;
+package io.sharedthings.batteryservice;
 
 import java.util.Enumeration;
 import java.util.Hashtable;
