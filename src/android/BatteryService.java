@@ -12,7 +12,7 @@ import io.sharedthings.batteryservice.BackgroundService;
 
 public class BatteryService extends BackgroundService {
 
-	private final static String TAG = MyService.class.getSimpleName();
+	private final static String TAG = BatteryService.class.getSimpleName();
 
 	private String mHelloTo = "World";
 
