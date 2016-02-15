@@ -29,6 +29,7 @@ public class BatteryService extends BackgroundService {
 
 			Log.d(TAG, msg);
 		} catch (JSONException e) {
+			Log.d("!!!error");
 		}
 
 		return result;
